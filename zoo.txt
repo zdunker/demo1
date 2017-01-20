@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 bird
 king
+=======
+dog
+>>>>>>> origin/master
