@@ -1,0 +1,4 @@
+[submodule "fancy"] 
+    path = test1 
+    url = ../HeaderGenerator.git 
+    fetchRecurseSubmodules = on-demand 
